@@ -33,7 +33,7 @@
 .jumbotron{
   padding: 70px 30px 70px 30px;
   margin: 0px auto;
-  background-color: #d303fc;
+  background-color: #9575cd !important;
   color: floralwhite;
 }
 
