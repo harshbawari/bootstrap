@@ -42,3 +42,11 @@
   margin: 0px;
   color: #0f0f0f;
 }
+
+body{
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: #512DA8;
+}
