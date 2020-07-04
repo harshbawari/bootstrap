@@ -72,3 +72,13 @@ body{
   left: 0;
   min-height: 300px;
 }
+
+.modal-body {
+  background-color: white;
+}
+
+#carouselButtons {
+  right: 0px;
+  position: absolute;
+  bottom:0px;
+}
